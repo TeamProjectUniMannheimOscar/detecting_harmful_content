@@ -1,7 +1,9 @@
 Detecting_Harmful_Content
 ==============================
 
-A short description of the project.
+This project is related to the team project from the University Mannheim in the FS 22.
+
+The main goal of the project is the development of a text classifier detecting harmful content.
 
 Project Organization
 ------------
