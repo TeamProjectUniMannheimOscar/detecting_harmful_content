@@ -1,58 +1,16 @@
 Detecting_Harmful_Content
 ==============================
 
-This project is related to the team project from the University Mannheim in the FSS22.
-
-The main goal of the project is the development of a text classifier detecting harmful content.
-
-Project Organization
+Abstract
 ------------
 
-    ├── LICENSE
-    ├── Makefile           <- Makefile with commands like `make data` or `make train`
-    ├── README.md          <- The top-level README for developers using this project.
-    ├── data
-    │   ├── external       <- Data from third party sources.
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
-    │
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
-    │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
-    │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
-    │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-    │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   └── figures        <- Generated graphics and figures to be used in reporting
-    │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
-    │
-    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
-    ├── src                <- Source code for use in this project.
-    │   ├── __init__.py    <- Makes src a Python module
-    │   │
-    │   ├── data           <- Scripts to download or generate data
-    │   │   └── make_dataset.py
-    │   │
-    │   ├── features       <- Scripts to turn raw data into features for modeling
-    │   │   └── build_features.py
-    │   │
-    │   ├── models         <- Scripts to train models and then use trained models to make
-    │   │   │                 predictions
-    │   │   ├── predict_model.py
-    │   │   └── train_model.py
-    │   │
-    │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
-    │       └── visualize.py
-    │
-    └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
+This project is related to the team project from the University Mannheim in the FSS22.
 
+Harmful content is a challenging problem and widespread in today's online world. More and more of this content is appearing both in the context of websites and on social media. How far a multilingual text corpus crawled from the web contains this content will be explored in our paper. With the help of text mining methods, which analyze and semantically classify the texts of the web crawled OSCAR Corpus, the result of this publication is formed. State-of-the-art models of machine and deep learning covering the text classification domain will be tested and evaluated on different databases. Likewise, their applicability to unseen data from the OSCAR corpus is reviewed and presented. Also, a solution based on a mixture of Language Models and perplexity is tested and analyzed. It is the most promising approach, as it provides a realistic prediction of the harmful content in the OSCAR corpus.
+
+Data & Models
+------------
+The Data and the Models used in this project can be found in the following link.
 
 --------
 
