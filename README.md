@@ -10,7 +10,7 @@ Harmful content is a challenging problem and widespread in today's online world.
 
 Data & Models
 ------------
-The Data and the Models used in this project can be found in the following link: https://drive.google.com/drive/folders/118DaadvW695-6ACxclxTuO0dt0HMDfYk?usp=sharing
+The Data and the Models used in this project can be found <a target="_blank" href="https://drive.google.com/drive/folders/118DaadvW695-6ACxclxTuO0dt0HMDfYk?usp=sharing">here</a>.
 
 --------
 
